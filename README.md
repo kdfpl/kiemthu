@@ -5,7 +5,7 @@
 - **Phân tích giá trị biên**
 	- Tại biên (1; 100)
 	- Cận biên (+-1 đơn vị của giá trị biên)
-- **Bảng quyết định **(Áp dụng với từ 2 field dữ liệu trở lên)
+- **Bảng quyết định ** (Áp dụng với từ 2 field dữ liệu trở lên)
 	- Tài khoản: 1, 1, 0, 0
 	- Mật khẩu: 1, 0, 1, 0
 - **Đoán lỗi**
